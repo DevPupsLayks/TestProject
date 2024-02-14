@@ -1,2 +1,4 @@
-for i in range(9999999999999999):
-    print("DevPups")
+import time
+while True:
+    print("OnDuty", flush=True)
+    time.sleep(1)
