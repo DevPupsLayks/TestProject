@@ -1,4 +1,4 @@
 import time
 while True:
-    print("My Pussey", flush=True)
+    print("On Duty", flush=True)
     time.sleep(101)
