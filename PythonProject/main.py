@@ -1,4 +1,4 @@
 import time
 while True:
     print("OnDuty", flush=True)
-    time.sleep(2)
+    time.sleep(101)
