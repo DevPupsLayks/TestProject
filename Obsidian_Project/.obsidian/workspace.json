@@ -4,35 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f05f45fcdb1bf1f4",
+        "id": "63f08027160747b0",
         "type": "tabs",
-        "dimension": 72.42744063324538,
         "children": [
           {
-            "id": "7defe9ae81798965",
+            "id": "fc3eeec4bc489429",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Главная директория..md",
+                "file": "Ренессанс банк.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3e9af2534ef54ce7",
-        "type": "tabs",
-        "dimension": 27.572559366754618,
-        "children": [
-          {
-            "id": "0b51a24bbdb17f67",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -85,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 321.5
   },
   "right": {
     "id": "5b34dcd0975d095f",
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Главная директория..md",
+                "file": "Ренессанс банк.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Главная директория..md",
+                "file": "Ренессанс банк.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Главная директория..md"
+                "file": "Ренессанс банк.md"
               }
             }
           }
@@ -162,9 +146,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7defe9ae81798965",
+  "active": "fc3eeec4bc489429",
   "lastOpenFiles": [
     "Главная директория..md",
+    "Python и DevOps Ключ к автоматизации..md",
+    "Ренессанс банк.md",
+    "Проекты не связанные с работой.md",
+    "Обучение.md",
+    "files/Python и DevOps Ключ к автоматизации.pdf",
+    "Python и DevOps Ключ к автоматизации.pdf",
+    "Python и DevOps Ключ к автоматизации 1.pdf",
+    "files",
+    "Мои наблюдения.md",
     "Welcome.md"
   ]
 }
