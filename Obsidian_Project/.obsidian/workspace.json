@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Список задач на 2024 год.md",
+                "file": "Личная информация.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Список задач на 2024 год.md",
+                "file": "Личная информация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Список задач на 2024 год.md",
+                "file": "Личная информация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Список задач на 2024 год.md"
+                "file": "Личная информация.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "fc3eeec4bc489429",
   "lastOpenFiles": [
-    "Проекты не связанные с работой.md",
     "Главная директория..md",
-    "Обучение.md",
+    "Личная информация.md",
     "Ренессанс банк.md",
     "Список задач на 2024 год.md",
+    "Проекты не связанные с работой.md",
+    "Обучение.md",
     "Python и DevOps Ключ к автоматизации..md",
     "2024 год.md",
     "Цель на 2024 год.md",
