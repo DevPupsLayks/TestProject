@@ -1,4 +1,4 @@
 import time
 while True:
     print("nice", flush=True)
-    time.sleep(101)
+    time.sleep(1)
