@@ -1,4 +1,4 @@
 import time
 while True:
-    print("DutyHuyuty", flush=True)
+    print("nice", flush=True)
     time.sleep(101)
