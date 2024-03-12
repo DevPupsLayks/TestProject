@@ -1,4 +1,2 @@
+from selenium import webdriver
 import time
-while True:
-    print("nice", flush=True)
-    time.sleep(1)
