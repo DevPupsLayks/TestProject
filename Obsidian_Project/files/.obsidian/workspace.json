@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6db969332830df1d",
+        "id": "6158e024b11767a9",
         "type": "tabs",
         "children": [
           {
-            "id": "afba4d3d5925aced",
+            "id": "3ca378d018f37cb2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "afba4d3d5925aced",
+  "active": "3ca378d018f37cb2",
   "lastOpenFiles": [
     "Python и DevOps Ключ к автоматизации.pdf"
   ]
