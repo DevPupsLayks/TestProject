@@ -1,7 +1,5 @@
-## 9bottles = 1
-july2009 = 2
-theSalesFigureForFiscalYear = 3
-## r&d = 4
-grade_report = 5
+from selenium import webdriver
 
-print(july2009, theSalesFigureForFiscalYear, grade_report)
+driver = webdriver.Chrome()
+
+driver.get("https://www.youtube.com/")
