@@ -1,2 +1,4 @@
+import time
 for i in range(1000):
-    print("Hello!")
+    time.sleep(2)
+    print("Hello-World!")
